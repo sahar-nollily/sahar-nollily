@@ -1,6 +1,5 @@
- Hi, I’m Sahar, a software engineer with experience in Android application development. A self motivated achiever with an ability to plan and execute. I’m very passionate about learning new technologies.
+ Hi, I’m Sahar, a software engineer with experience in Android application development. A self motivated achiever with an ability to plan and execute. I’m very passionate about learning new technologies 🌱.
 
-- 🌱 I’m currently learning Kotlin Multiplatform Mobile (KMM)
 - 📫 How to reach me: sahar_nollily@hotmail.com
 
 <!---
